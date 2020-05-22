@@ -1,2 +1,2 @@
 # demo_git
-This is a demo 
+This is a demo and its gud 
